@@ -1,0 +1,7 @@
+#TableOfContents {
+    a {
+        &.active {
+            color: var(--#{$prefix}primary);
+        }
+    }
+}
