@@ -4,4 +4,5 @@
 [[module.imports]]
 path = "github.com/hbstack/hb"
 
-# [params.hb.toc_scrollspy]
+[params.hb.toc_scrollspy]
+border = true
